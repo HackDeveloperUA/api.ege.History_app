@@ -16,5 +16,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Выпишите словосочитания без пробелов",
-    "arrURLImageForTask": ["dddddd"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant1/task13/img/IMGEGE.History.Variant1.Task13_Img1.png"]
 }

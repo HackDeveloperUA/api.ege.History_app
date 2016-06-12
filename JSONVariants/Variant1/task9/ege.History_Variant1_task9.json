@@ -19,5 +19,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "",
-    "arrURLImageForTask": ["Вставитть"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant1/task9/img/IMGEGE.History.Variant1.Task9_Img1.png"]
 }
