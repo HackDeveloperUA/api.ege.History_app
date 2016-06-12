@@ -15,6 +15,6 @@
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
-    "actionDirection"             : "",
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
     "arrURLImageForTask": []
 }

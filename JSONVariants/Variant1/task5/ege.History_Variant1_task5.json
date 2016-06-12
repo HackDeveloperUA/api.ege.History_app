@@ -18,6 +18,6 @@
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
-    "actionDirection"             : "",
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
     "arrURLImageForTask": [ "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant1/task5/img/IMGEGE.History.Variant1.Task5_Img1.png"]
 }

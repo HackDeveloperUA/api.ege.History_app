@@ -15,6 +15,6 @@
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
-    "actionDirection"             : "",
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
     "arrURLImageForTask": []
 }
