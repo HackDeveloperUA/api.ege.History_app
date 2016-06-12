@@ -16,5 +16,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Выпишите слово без пробелов с большой буквы",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task13/img/IMGEGE.History.Variant2.Task13_Img1.png]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task13/img/IMGEGE.History.Variant2.Task13_Img1.png"]
 }
