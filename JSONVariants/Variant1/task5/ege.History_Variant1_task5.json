@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 5",
+    "taskDefinition"    : "Установите соответствие",
+    "mainText"          : "Установите соответствие между процессами (явлениями, событиями) и фактами, относящимися к этим процессам (явлениям, событиям): к каждой позиции первого столбца подберите соответствующую позицию из второго столбца.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 2,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 6142",
+    "answers": [
+        "2",
+        "4",
+        "5",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "",
+    "arrURLImageForTask": [ "Вставить !!!"]
+}

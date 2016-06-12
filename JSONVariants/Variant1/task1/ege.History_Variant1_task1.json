@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 1",
+    "taskDefinition"    : "Расположите в хронологической последовательности исторические события. Запишите цифры, которыми обозначены исторические события, в правильной последовательности.",
+    "mainText"          : "1. созыв первого Земского собора\n2. провозглашение Карла Великого императором\n3. присоединение Крыма к Российской империи",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "2",
+        "3",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "",
+    "arrURLImageForTask": []
+}

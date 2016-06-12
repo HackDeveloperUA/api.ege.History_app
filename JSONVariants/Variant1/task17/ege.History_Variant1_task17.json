@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 17",
+    "taskDefinition"    : "К каждой позиции первого столбца подберите соответствующую позицию из второго столбца.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "5",
+        "1",
+        "6",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["dsfsdf"]
+}

@@ -1,0 +1,108 @@
+{
+ "evaluatorModels" : [
+    {
+   "phrase" : "Плохо !",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1346750981_375678_nu-kak-ege-syinok.jpg"
+                            }
+     }, 
+     
+      {
+   "phrase" : "Пересдашь через год:)!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/1463721134111259084.jpg"
+                            }
+     }, 
+
+      {
+   "phrase" : "ЕГЭ ? Какое ЕГЭ !",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/9a5ssb.jpg"
+                            }
+     }, 
+
+      {
+   "phrase" : "Просто так не сдать!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/comics_nelzya-prosto-vzyat-i_orig_1342617926.jpg"
+                            }
+     }, 
+
+      {
+   "phrase" : "Мда!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/i1t64w.jpg"
+                            }
+     }, 
+
+      {
+   "phrase" : "Лее, считай что я этого не видел!",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/utka_21712949_orig_.jpeg"
+                            }
+     },
+
+           {
+   "phrase" : "Двойку пока карандашом ! Исправишь",
+  "imagesForiPhoneDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg"
+                            },
+
+  "imagesForiPadDevice" : {
+                                "smallImg"  : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "middleImg" : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg",
+                                "bigImg"    : "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.RussianLang_app/master/Evaluator/Bad/3.jpg"
+                            }
+     }
+  ] 
+}

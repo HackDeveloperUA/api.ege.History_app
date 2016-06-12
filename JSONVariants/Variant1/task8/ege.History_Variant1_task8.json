@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 8",
+    "taskDefinition"    : "Заполните пропуски в данных предложениях",
+    "mainText"          : "Используя приведённый ниже список пропущенных элементов: для каждого предложения, обозначенного буквой и содержащего пропуск, выберите номер нужного элемента.\nА) Командующий 62-й армией, особо отличившейся в Сталинградской битве _______.\nБ) Полное освобождение Ленинграда от вражеской блокады произошло в январе ______ .\nВ) 30 сентября 1941 г. началась _______ .\n1. оборона Брестской крепости\n2. 1943 г.\n3. 1944 г.\n4. В.И. Чуйков\n5. Н.Ф. Ватутин\n6. битва за Москву",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 621",
+    "answers": [
+        "4",
+        "3",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "",
+    "arrURLImageForTask": []
+}

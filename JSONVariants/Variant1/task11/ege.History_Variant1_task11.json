@@ -1,0 +1,25 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "1. заключение договора Руси с Византией\n2. Оттон I Великий\n3. 1582 г.\n4. заключение Ям-Запольского перемирия между Россией и Речью Посполитой\n5. заключение Андрусовского перемирия между Россией и Речью Посполитой\n6. заключение «Вечного мира» между Россией и Речью Посполитой\n7. 1667 г.\n8. Карл Великий\n9. 1686 г.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "4",
+        "3",
+        "1",
+        "2",
+        "5",
+        "7"
+    ],
+    "addPictureInTop"           : true,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "",
+    "arrURLImageForTask": ["Вставить"]
+}

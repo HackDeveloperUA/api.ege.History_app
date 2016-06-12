@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными? Выберите два суждения из пяти предложенных.",
+    "mainText"          : "1. Данная монета выпущена после Карибского кризиса.\n2. Монумент, изображённый на монете, установлен в память о Сталинградской битве.\n3. К моменту распада СССР количество ленточек на гербе СССР, изображённом на монете, сократилось.\n4. Война, юбилею победы в которой посвящена монета, началась в первой декаде июня.\n5. Монумент, изображённый на монете, создан по проекту скульптора В.И. Мухиной.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1",
+        "2"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "",
+    "arrURLImageForTask": ["вставить"]
+}
