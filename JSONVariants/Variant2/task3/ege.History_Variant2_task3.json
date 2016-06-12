@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён спи­сок тер­ми­нов. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к со­бы­ти­ям (яв­ле­ни­ям) XIX в. Най­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "mainText"          : "1) воль­ные хле­бо­паш­цы; 2) ми­ни­стер­ства; 3) де­каб­ри­сты;\n4) тре­тье­и­юнь­ский пе­ре­во­рот; 5) ми­ро­вые судьи; 6) ок­тяб­ри­сты.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "4",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

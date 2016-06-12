@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 9",
+    "taskDefinition"    : "Установите соответствие между событиями и участниками этих событий: к каждой позиции первого столбца подберите соответствующую позицию из второго столбца.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 571",
+    "answers": [
+        "4",
+        "3",
+        "5",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task9/img/IMGEGE.History.Variant2.Task9_Img1.png"]
+}

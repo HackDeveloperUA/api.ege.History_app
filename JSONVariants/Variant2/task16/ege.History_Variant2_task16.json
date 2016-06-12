@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суж­де­ния, от­но­ся­щи­е­ся к со­бы­ти­ям, обо­зна­чен­ным на схеме, яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те три суж­де­ния из шести пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "1) За­во­е­ва­те­ли вторг­лись в пре­де­лы Руси в зим­ний пе­ри­од.\n2) Ни один из го­ро­дов, за­хва­чен­ных за­во­е­ва­те­ля­ми, не вы­дер­жал осады более одной не­де­ли.\n3) Поход, обо­зна­чен­ный на схеме стрел­ка­ми, длил­ся около трёх лет.\n4) Одним из по­след­ствий со­бы­тий, обо­зна­чен­ных на схеме, было на­ча­ло раз­дроб­лен­но­сти Древ­не­рус­ско­го го­су­дар­ства.\n5) В ре­зуль­та­те со­бы­тий, обо­зна­чен­ных на схеме, рус­ские земли по­па­ли в за­ви­си­мость.\n6) Во­е­на­чаль­ник, поход ко­то­ро­го обо­зна­чен на схеме, яв­ля­ет­ся ос­но­ва­те­лем го­су­дар­ства.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 841",
+    "answers": [
+        "1",
+        "5",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task13/img/IMGEGE.History.Variant2.Task13_Img1.png"]
+}

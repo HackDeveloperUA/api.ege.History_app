@@ -1,0 +1,22 @@
+{
+    "taskName": "Задание 14",
+    "taskDefinition": "На­пи­ши­те на­зва­ние го­ро­да, обо­зна­чен­но­го на схеме циф­рой «1».",
+    "mainText": "",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence": false,
+    "expectedAnswer": "Напр: Нью-Йорк",
+    "answers": [
+        "Владимир"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": [
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task13/img/IMGEGE.History.Variant2.Task13_Img1.png"
+    ]
+}

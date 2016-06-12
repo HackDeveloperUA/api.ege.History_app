@@ -1,0 +1,26 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+    "mainText"          : "Про­пу­щен­ные эле­мен­ты:\n1) М. А. Его­ров, М. В. Кан­та­рия\n2) сен­тябрь 1941 г. — ап­рель 1942 г.\n3) Я. Ф. Пав­лов\n4) ка­пи­ту­ля­ция груп­пи­ров­ки итало-не­мец­ких войск в Се­вер­ной Аф­ри­ке\n5) от­кры­тие Вто­ро­го фрон­та во Фран­ции\n6) июнь — ав­густ 1944 г.\n7) июль 1942 г. – фев­раль 1943 г.\n8) И. В. Пан­фи­лов\n9) май 1942 г.\n\nЗа­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "6",
+        "7",
+        "3",
+        "5",
+        "2",
+        "8"
+    ],
+    "addPictureInTop"           : true,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task11/img/IMGEGE.History.Variant1.Task11_Img1.png",
+                           "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task11/img/IMGEGE.History.Variant1.Task11_Img2.png"]
+}

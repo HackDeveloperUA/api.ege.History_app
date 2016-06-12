@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 1",
+    "taskDefinition"    : "Рас­по­ло­жи­те в хро­но­ло­ги­че­ской по­сле­до­ва­тель­но­сти ис­то­ри­че­ские со­бы­тия. За­пи­ши­те цифры, ко­то­ры­ми обо­зна­че­ны ис­то­ри­че­ские со­бы­тия, в пра­виль­ной по­сле­до­ва­тель­но­сти в таб­ли­цу.",
+    "mainText"          : "\n1) Крым­ская война\n2) ре­фор­ма пат­ри­ар­ха Ни­ко­на\n3) па­де­ние Ви­зан­тий­ской им­пе­рии",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "2",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

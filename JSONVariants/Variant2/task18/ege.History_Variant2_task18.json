@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о скульп­ту­ре, изоб­ражённой на фо­то­гра­фии, яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "1) Скульп­ту­ра была со­зда­на в пе­ри­од после Ве­ли­кой Оте­че­ствен­ной войны.\n2) В на­сто­я­щее время скульп­ту­ра на­хо­дит­ся в г. Санкт-Пе­тер­бур­ге.\n3) На скульп­ту­ре по­ка­за­ны ору­дия труда, изоб­ра­жав­ши­е­ся на гербе СССР.\n4) Ав­то­ром скульп­ту­ры яв­ля­ет­ся П. К. Клодт.\n5) Скульп­ту­ра сим­во­ли­зи­ро­ва­ла един­ство ра­бо­че­го клас­са и кре­стьян­ства.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task18/img/IMGEGE.History.Variant2.Task18_Img1.png"]
+}
