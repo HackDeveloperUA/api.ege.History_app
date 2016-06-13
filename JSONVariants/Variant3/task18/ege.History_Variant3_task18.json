@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.", 
+    "mainText"          : "\n1) Дан­ный номер жур­на­ла «Кро­ко­дил» вышел во вто­рой чет­вер­ти XX в.\n2) В ос­но­ву ка­ри­ка­ту­ры по­ло­жен эпи­зод из поэмы «Мёртвые души».\n3) Пи­са­тель, го­дов­щи­не со дня рож­де­ния ко­то­ро­го по­свя­ще­на об­лож­ка жур­на­ла, за одно из своих про­из­ве­де­ний был рас­кри­ти­ко­ван В. Г. Бе­лин­ским.\n4) Ка­ри­ка­ту­ра на об­лож­ке жур­на­ла по­свя­ще­на внеш­не­по­ли­ти­че­ским от­но­ше­ни­ям СССР.\n5) Пи­са­тель, го­дов­щи­не со дня рож­де­ния ко­то­ро­го по­свя­ще­на об­лож­ка жур­на­ла, был со­вре­мен­ни­ком А. С. Пуш­ки­на.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task18/img/IMGEGE.History.Variant2.Task18_Img1.png"]
+}

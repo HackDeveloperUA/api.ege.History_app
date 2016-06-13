@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 10",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное слово",
+    "mainText"          : "«Фор­ми­ро­ва­ние со­ци­а­ли­сти­че­ских про­из­вод­ствен­ных от­но­ше­ний в де­рев­не, лик­ви­да­ция мел­ко­то­вар­но­го про­из­вод­ства для раз­ре­ше­ния хлеб­ных за­труд­не­ний и обес­пе­че­ния стра­ны не­об­хо­ди­мым ко­ли­че­ством то­вар­но­го зерна — вот в чём ос­нов­ная цель _________».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: колхоз",
+    "answers": [
+        "коллективизации"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

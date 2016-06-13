@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 15",
+    "taskDefinition"    : "Рас­смот­ри­те изоб­ра­же­ние и вы­пол­ни­те за­да­ние.\nКакие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в ответ цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "\n1) Пред­став­лен­ная на изоб­ра­же­нии мо­не­та была вы­пу­ще­на в 1965 г.\n2) Изоб­ражённый на мо­не­те па­мят­ник на­хо­дит­ся в Москве.\n3) Автор изоб­ражённого на мо­не­те па­мят­ни­ка – М.М. Ан­то­коль­ский.\n4) Одним из эле­мен­тов изоб­ражённого на мо­не­те па­мят­ни­ка яв­ля­ет­ся по­вер­жен­ная фа­шист­ская сим­во­ли­ка.\n5) Изоб­ражённый на мо­не­те па­мят­ник по­свящён вы­да­ю­ще­му­ся со­вет­ско­му во­е­на­чаль­ни­ку.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1445",
+    "answers": [
+        "1",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant3/task15/img/IMGEGE.History.Variant3.Task15_Img1.png"]
+}

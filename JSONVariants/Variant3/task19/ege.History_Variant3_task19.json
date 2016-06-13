@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Какие из зда­ний, пред­став­лен­ных ниже, были по­стро­е­ны в том же веке, в ко­то­ром была со­зда­на дан­ная скульп­ту­ра? В от­ве­те за­пи­ши­те две цифры, под ко­то­ры­ми ука­за­ны эти зда­ния.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant3/task18/img/IMGEGE.History.Variant3.Task18_Img1.png",
+                        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant3/task19/img/IMGEGE.History.Variant3.Task19_Img1.png"]
+}

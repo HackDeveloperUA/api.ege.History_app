@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён пе­ре­чень тер­ми­нов. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к со­бы­ти­ям, яв­ле­ни­ям, от­но­ся­щим­ся к пе­ри­о­ду 1985—1991 гг.\nНай­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "mainText"          : "\n1) мно­го­пар­тий­ность\n2) бюд­жет­ный де­фи­цит\n3) вер­ти­каль вла­сти\n4) мо­не­ти­за­ция льгот\n5) ре­фе­рен­дум\n6) уско­ре­ние со­ци­аль­но-эко­но­ми­че­ско­го раз­ви­тия",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}
