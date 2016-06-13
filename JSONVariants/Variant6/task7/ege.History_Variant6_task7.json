@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : " Что из пе­ре­чис­лен­но­го от­но­сит­ся к со­ци­аль­но-эко­но­ми­че­ско­му раз­ви­тию СССР в пе­ри­од «пе­ре­строй­ки»? Вы­бе­ри­те три от­ве­та и за­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+     "mainText"          : "\n1) вы­пуск при­ва­ти­за­ци­он­ных чеков\n2) раз­ви­тие ин­ди­ви­ду­аль­ной тру­до­вой де­я­тель­но­сти\n3) на­ча­ло за­ба­сто­воч­но­го дви­же­ния в стра­не\n4) сни­же­ние цен на по­тре­би­тель­ские то­ва­ры\n5) ост­рый де­фи­цит то­ва­ров\n6) ли­бе­ра­ли­за­ция цен",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "2",
+        "3",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

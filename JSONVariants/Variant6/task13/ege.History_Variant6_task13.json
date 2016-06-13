@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : " Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние",
+     "mainText"         : "На­пи­ши­те фа­ми­лию рус­ско­го пол­ко­вод­ца, воз­глав­ляв­ше­го во­ен­ную опе­ра­цию, в ре­зуль­та­те ко­то­рой была взята кре­пость, обо­зна­чен­ная на схеме но­ме­ром «5».",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Мартынов",
+    "answers": [
+        "Скоболев"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов с большой буквы",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant6/task13/img/IMGEGE.History.Variant6.Task13_Img1.png"]
+}

@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+     "mainText"          : "\n1) Мо­не­та вы­пу­ще­на в пе­ри­од, когда пра­ви­тель, изоб­ражённый на ней, уже был про­воз­глашён им­пе­ра­то­ром.\n2) Отец пра­ви­те­ля, изоб­ражённого на мо­не­те — царь Фёдор Алек­се­е­вич.\n3) Дан­ная мо­не­та вы­пу­ще­на до Грен­гам­ско­го сра­же­ния.\n4) В пе­ри­од прав­ле­ния мо­нар­ха, изоб­ражённого на мо­не­те, был ос­но­ван Мос­ков­ский уни­вер­си­тет.\n5) После смер­ти пра­ви­те­ля, изоб­ражённого на мо­не­те, на рос­сий­ский пре­стол взо­шла его жена.",
+      "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant6/task18/img/IMGEGE.History.Variant6.Task18_Img1.png"]
+}

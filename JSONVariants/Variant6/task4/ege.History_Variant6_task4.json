@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное слово.",
+    "mainText"          : "По­ли­ти­ка, ха­рак­те­ри­зу­е­мая уста­нов­кой на по­стро­е­ние ком­му­низ­ма в СССР в те­че­ние два­дца­ти бли­жай­ших лет, свя­за­на с пе­ри­о­дом ______________________.",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: дом",
+    "answers": [
+        "оттепели"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

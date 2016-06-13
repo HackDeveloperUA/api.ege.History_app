@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён пе­ре­чень тер­ми­нов. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к со­бы­ти­ям, яв­ле­ни­ям, про­ис­хо­див­шим в СССР в 1920-е гг.",
+    "mainText"          : "Най­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.\n1) «ско­рост­ни­ки»\n2) хоз­расчёт\n3) зо­ло­той чер­во­нец\n4) биржа труда\n5) кон­цес­сии\n6) ста­ха­нов­цы",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "1",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Ука­жи­те скульп­тур­ные со­ору­же­ния, рас­по­ло­жен­ные в го­ро­де, ос­но­ван­ном по указу мо­нар­ха, изоб­ражённого на мо­не­те. В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+     "mainText"         : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "2",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant6/task18/img/IMGEGE.History.Variant6.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant6/task19/img/IMGEGE.History.Variant6.Task19_Img1.png"]
+}
