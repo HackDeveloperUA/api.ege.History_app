@@ -1,0 +1,25 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "Заполните пустые ячейки таблицы, используя приведённый ниже список пропущенных элементов: для каждого пропуска, обозначенного буквами, выберите номер нужного элемента.",
+     "mainText"         : "\n1. XIII в.\n2. XIV в.\n3. создание «Правды Ярославичей»\n4. Батыево нашествие на Русь\n5. начало Столетней войны\n6. разделение Христианской церкви на Восточную православную и Западную католическую\n7. принятие Великой хартии вольности в Англии\n8. присоединение к России Астраханского ханства\n9. XVII в.",
+      "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "3",
+        "6",
+        "2",
+        "5",
+        "8",
+        "9"
+    ],
+    "addPictureInTop"           : true,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task11/img/IMGEGE.History.Variant7.Task11_Img1.png"]
+}

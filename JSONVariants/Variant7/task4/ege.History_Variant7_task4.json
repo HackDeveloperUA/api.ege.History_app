@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Запишите термин, о котором идёт речь.",
+    "mainText"          : "Г.В. Плеханов и его единомышленники основали в Женеве группу « ________ » главным делом которой стала пропаганда идей марксизма.",
+   "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: закрепощениекрестьян",
+    "answers": [
+        "освобождениетруда"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

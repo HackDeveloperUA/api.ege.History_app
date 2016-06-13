@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 8",
+    "taskDefinition"    : "Заполните пропуски в данных предложениях, используя приведённый ниже список пропущенных элементов: для каждого предложения, обозначенного буквой и содержащего пропуск, выберите номер нужного элемента.",
+    "mainText"          : "\nА) Советский конструктор стрелкового оружия - _______ .\nБ) 316-я стрелковая дивизия под командованием И.В. Панфилова отличилась в _______ .\nВ) Подпольная антифашистская комсомольская организация «Молодая гвардия» действовала в годы Великой Отечественной войны в г. _________ .\n1. А.И. Шахурин\n2. Краснодон\n3. Г.С. Шпагин\n4. битва за Москву\n5. Смоленск\n6. Курская битва",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 621",
+    "answers": [
+        "3",
+        "4",
+        "2"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

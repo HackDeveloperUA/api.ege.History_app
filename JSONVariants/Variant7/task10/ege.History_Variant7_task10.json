@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 10",
+    "taskDefinition"    : "За­пол­ни­те про­пус­ки в дан­ных пред­ло­же­ни­ях",
+    "mainText"          : "«Каждый из Участников настоящего Договора обязуется запретить, предотвращать и не производить любые испытательные взрывы ядерного оружия и любые другие ядерные взрывы в любом месте, находящемся под его юрисдикцией или контролем.\nа) в атмосфере; за её пределами, включая космическое пространство; ______ ..., и\nб) в любой другой среде, если такой взрыв вызывает выпадение радиоактивных осадков за пределами территориальных границ государства, под юрисдикцией или контролем которого проводится такой взрыв».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: моряк",
+    "answers": [
+        "подводный"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

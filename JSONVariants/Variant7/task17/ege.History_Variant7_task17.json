@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 17",
+    "taskDefinition"    : "К каждой позиции первого столбца подберите соответствующую позицию из второго столбца",
+     "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "1",
+        "5",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task17/img/IMGEGE.History.Variant7.Task17_Img1.png"]
+}

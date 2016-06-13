@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 1",
+    "taskDefinition"    : "Расположите в хронологической последовательности исторические события. Запишите цифры, которыми обозначены исторические события, в правильной последовательности.",
+    "mainText"          : "\n1. Чесменское сражение\n2. Ледовое побоище\n3. начало реформации в Германии",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "2",
+        "3",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

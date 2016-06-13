@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : "Какие суждения, относящиеся к событиям, обозначенным на схеме, являются верными? Выберите три суждения из шести предложенных. Запишите в таблицу цифры, под которыми они указаны",
+    "mainText"          : "\n1. На схеме обозначены действия Красной армии в ходе проведения операции «Кольцо».\n2. Город Рига был взят Красной армией в ходе событий, обозначенных на данной схеме.\n3. События, обозначенные на схеме, произошли в период, когда от немецко-фашистских войск уже были освобождены Орёл и Белгород.\n4. В ходе событий, обозначенных на схеме, советские войска вступили на территорию Польши.\n5. События, обозначенные на схеме, произошли в период, когда Ленинград находился в блокаде.\n6. В период событий, обозначенных на схеме, СССР был участником Лиги Наций",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 2",
+    "answers": [
+        "2",
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task13/img/IMGEGE.History.Variant7.Task13_Img1.png"]
+}
+

@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 2",
+    "taskDefinition"    : "Установите соответствие между событиями и годами: к каждой позиции первого столбца подберите соответствующую позицию из второго столбца",
+     "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 3510",
+    "answers": [
+        "2",
+        "4",
+        "6",
+        "3"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task2/img/IMGEGE.History.Variant7.Task2_Img1.png"]
+}

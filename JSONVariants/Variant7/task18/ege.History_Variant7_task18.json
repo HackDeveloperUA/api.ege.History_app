@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суждения о данной монете являются верными?",
+     "mainText"         : "\nВыберите два суждения из пяти предложенных.\n1. Собор изображённый на монете, был построен в период правления Василия III.\n2. Собор, изображённый на монете, украшен аркатурно-колончатым поясом.\n3. Собор, изображённый на монете, имеет большее количество куполов, чем любой другой храм построенный на Руси в период Средневековья.\n4. Собор, изображённый на монете, служил местом венчания на царство русских царей.\n5. Собор, изображённый на монете, был построен по проекту русского архитектора.",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "2",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task18/img/IMGEGE.History.Variant7.Task18_Img1.png"]
+}

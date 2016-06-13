@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Укажите памятник архитектуры, возведённый в том же веке, что и собор, изображённый на монете. В ответе запишите цифру, которой обозначен этот памятник архитектуры.",
+     "mainText"         : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task18/img/IMGEGE.History.Variant7.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant7/task19/img/IMGEGE.History.Variant7.Task19_Img1.png"]
+}
