@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное слово.",
+    "mainText"          : "Го­су­дар­ствен­ный орган, осу­ществ­ляв­ший об­ще­го­су­дар­ствен­ное пла­ни­ро­ва­ние раз­ви­тия на­род­но­го хо­зяй­ства СССР и кон­троль за вы­пол­не­ни­ем на­род­но­хо­зяй­ствен­ных пла­нов, со­здан­ный в на­ча­ле 1920-х гг., на­зы­вал­ся ________________ СССР.",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: дом",
+    "answers": [
+        "госплан"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

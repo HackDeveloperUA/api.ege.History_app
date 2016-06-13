@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Ука­жи­те изоб­ра­же­ния, на ко­то­рых пред­став­ле­ны объ­ек­ты, по­стро­ен­ные в пе­ри­од ру­ко­вод­ства стра­ной по­ли­ти­че­ско­го де­я­те­ля, при ко­то­ром со­сто­я­лась обо­зна­чен­ная на марке экс­пе­ди­ция. В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+     "mainText"         : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task18/img/IMGEGE.History.Variant5.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task19/img/IMGEGE.History.Variant5.Task19_Img1.png"]
+}

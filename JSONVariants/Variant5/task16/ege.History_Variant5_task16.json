@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 16",
+    "taskDefinition"    : " Какие суж­де­ния, от­но­ся­щи­е­ся к схеме, яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те три суж­де­ния из шести пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+     "mainText"          : "\n1) Же­лез­ная до­ро­га, обо­зна­чен­ная на схеме бук­вой «А», была по­стро­е­на в 1830-х гг.\n2) Тер­ри­то­рии, обо­зна­чен­ные на схеме циф­ра­ми «I» и «II», были при­со­еди­не­ны к Рос­сий­ской им­пе­рии в пе­ри­од прав­ле­ния од­но­го и того же им­пе­ра­то­ра.\n3) Тер­ри­то­рия, обо­зна­чен­ная на схеме циф­рой «III», была при­со­еди­не­на к Рос­сии в ре­зуль­та­те войны с Ав­стрий­ской им­пе­ри­ей.\n4) В Пол­та­ве на­хо­ди­лась одна из важ­ней­ших рос­сий­ских яр­ма­рок.\n5) Все го­ро­да, обо­зна­чен­ные на схеме, со­хра­ни­ли свои на­зва­ния до наших дней.\n6) На тер­ри­то­рии, обо­зна­чен­ной на схеме циф­рой «II», в XIX в. про­изо­шли два круп­ных вос­ста­ния.",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 2",
+    "answers": [
+        "2",
+        "4",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task13/img/IMGEGE.History.Variant5.Task13_Img1.png"]
+}
+

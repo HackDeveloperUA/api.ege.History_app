@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : "За­пол­ни­те про­пуск в пред­ло­же­нии: «Тер­ри­то­рия, обо­зна­чен­ная на схеме циф­рой II, была при­со­еди­не­на к Рос­сий­ской им­пе­рии в ты­ся­ча во­семь­сот ___________ годах». Ответ за­пи­ши­те сло­вом.",
+     "mainText"         : "",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: девяностых",
+    "answers": [
+        "десятых"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов с маленькой буквы",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task13/img/IMGEGE.History.Variant5.Task13_Img1.png"]
+}

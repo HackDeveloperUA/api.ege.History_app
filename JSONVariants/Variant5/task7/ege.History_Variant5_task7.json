@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие черты ха­рак­те­ри­зо­ва­ли раз­ви­тие науки и куль­ту­ры в СССР в 1970-е—се­ре­ди­не 1980-х гг.?",
+    "mainText"          : "\n1) под­поль­ное рас­про­стра­не­ние за­пре­щен­ных цен­зу­рой про­из­ве­де­ний\n2) при­о­ри­тет­ное фи­нан­си­ро­ва­ние куль­ту­ры\n3) идео­ло­ги­че­ский кон­троль в сфере ли­те­ра­ту­ры и ис­кус­ства\n4) со­кра­ще­ние рас­хо­дов на науку\n5) вве­де­ние все­об­ще­го обя­за­тель­но­го сред­не­го об­ра­зо­ва­ния\n6) со­кра­ще­ние ко­ли­че­ства спе­ци­а­ли­стов с выс­шим об­ра­зо­ва­ни­ем",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "1",
+        "3",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

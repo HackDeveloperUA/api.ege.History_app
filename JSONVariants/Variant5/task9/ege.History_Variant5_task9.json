@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 9",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между фа­ми­ли­я­ми го­су­дар­ствен­ных де­я­те­лей и ис­то­ри­че­ски­ми со­бы­ти­я­ми. В ответ за­пи­ши­те по­сле­до­ва­тель­ность цифр.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 571",
+    "answers": [
+        "5",
+        "1",
+        "4",
+        "3"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task9/img/IMGEGE.History.Variant5.Task9_Img1.png"]
+}

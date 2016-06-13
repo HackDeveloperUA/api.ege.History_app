@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 5",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между про­цес­са­ми (яв­ле­ни­я­ми, со­бы­ти­я­ми) и фак­та­ми, от­но­ся­щи­ми­ся к этим про­цес­сам (яв­ле­ни­ям, со­бы­ти­ям): к каж­дой по­зи­ции пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щую по­зи­цию из вто­ро­го столб­ца.",
+    "mainText"          : "За­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 6142",
+    "answers": [
+        "4",
+        "2",
+        "3",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": [ "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant5/task5/img/IMGEGE.History.Variant5.Task5_Img1.png"]
+}
