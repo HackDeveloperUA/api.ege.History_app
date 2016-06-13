@@ -1,0 +1,21 @@
+{
+    "taskName": "Задание 14",
+    "taskDefinition"  : "Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние.",
+    "mainText"        : "На­пи­ши­те фа­ми­лию со­вет­ско­го ге­не­ра­ла, воз­глав­ляв­ше­го в этой битве За­пад­ный фронт и сыг­рав­ше­го клю­че­вую роль в раз­ра­бот­ке дан­ной опе­ра­ции со­вет­ских войск.",
+     "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence": false,
+    "expectedAnswer": "Напр: Грозный",
+    "answers": [
+        "Жуков"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant10/task13/img/IMGEGE.History.Variant10.Task13_Img1.png"
+]
+}

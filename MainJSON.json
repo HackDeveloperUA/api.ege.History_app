@@ -152,6 +152,23 @@
                     "variantBigImg": ""
                 }
             ]
+        },
+         {
+            "variantName": "Вариант 10",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant10/ege.History_Variant10.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
         }
     ]
 }

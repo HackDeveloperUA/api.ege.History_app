@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие три из пе­ре­чис­лен­ных по­ло­же­ний от­но­сят­ся к по­ли­ти­ке «пе­ре­строй­ки»? Со­от­вет­ству­ю­щие цифры за­пи­ши­те в ответ.",
+    "mainText"          : "\n1) за­ме­на прод­развёрстки прод­на­ло­гом\n2) уси­ле­ние роли Со­ве­тов в управ­ле­нии го­су­дар­ством\n3) борьба с «кос­мо­по­ли­тиз­мом»\n4) отказ от по­ли­ти­ки «хо­лод­ной войны»\n5) при­о­ри­тет­ное раз­ви­тие во­ен­но-про­мыш­лен­но­го ком­плек­са\n6) вве­де­ние мно­го­пар­тий­но­сти",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "2",
+        "4",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

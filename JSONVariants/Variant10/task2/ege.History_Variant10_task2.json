@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 2",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между ре­фор­ма­ми пер­вой по­ло­ви­ны XIX в. и да­та­ми их про­ве­де­ния.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 3510",
+    "answers": [
+        "5",
+        "1",
+        "4",
+        "2"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant10/task2/img/IMGEGE.History.Variant10.Task2_Img1.png"]
+}

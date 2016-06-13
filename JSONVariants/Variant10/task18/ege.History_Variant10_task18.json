@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "\n1) это со­ору­же­ние на­хо­дит­ся в Москве\n2) па­мят­ник вы­стро­ен в рус­ско-ви­зан­тий­ском стиле\n3) дан­ное зда­ние имеет от­но­ше­ние к во­ен­но-мор­ско­му флоту\n4) ар­хи­тек­тор, по­стро­ив­ший это зда­ние, — А. Д. За­ха­ров\n5) со­зда­ние этого па­мят­ни­ка ар­хи­тек­ту­ры от­но­сит­ся ко вре­ме­ни прав­ле­ния Петра I",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant10/task18/img/IMGEGE.History.Variant10.Task18_Img1.png"]
+}

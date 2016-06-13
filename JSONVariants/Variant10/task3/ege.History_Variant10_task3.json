@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ве­ден пе­ре­чень тер­ми­нов. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к со­бы­ти­ям XIX в.",
+    "mainText"          : "1) Фрей­ли­на, 2) ря­до­вич, 3) об­щи­на, 4) отруб, 5) хле­бо­па­шец, 6) при­сяж­ный по­ве­рен­ный.\nНай­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 15",
+    "answers": [
+        "2",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

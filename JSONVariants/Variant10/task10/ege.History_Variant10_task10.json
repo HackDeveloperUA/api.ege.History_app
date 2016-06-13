@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 10",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное сло­во­со­че­та­ние (по­ня­тие, тер­мин).",
+    "mainText"          : "_________ — сфор­му­ли­ро­ван­ное за­пад­ны­ми по­ли­ти­ка­ми и об­ще­ствен­ны­ми де­я­те­ля­ми обо­зна­че­ние внеш­ней по­ли­ти­ки СССР с се­ре­ди­ны 60-х до на­ча­ла 80-х годов XX века по от­но­ше­нию к со­ци­а­ли­сти­че­ским стра­нам.",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: ПланБенза",
+    "answers": [
+        "ДоктринаБрежнева"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

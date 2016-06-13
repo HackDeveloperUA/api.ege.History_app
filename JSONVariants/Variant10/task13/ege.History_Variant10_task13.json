@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : " За­пи­ши­те сло­вом про­пу­щен­ный во фразе год: «Изоб­ражённая на схеме битва на­ча­лась в ты­ся­ча де­вять­сот сорок ________ году».",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: седьмом",
+    "answers": [
+        "первом"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant10/task13/img/IMGEGE.History.Variant10.Task13_Img1.png"]
+}

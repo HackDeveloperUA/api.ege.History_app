@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное сло­во­со­че­та­ние.",
+   "mainText"           : "Про­цесс прак­ти­че­ски бес­кров­но­го пе­ре­хо­да от со­ци­а­ли­сти­че­ской об­ще­ствен­но-по­ли­ти­че­ской си­сте­мы к ли­бе­раль­ной, про­изо­шед­ший в конце 1980-х — на­ча­ле 1990-х гг. в стра­нах Во­сточ­ной Ев­ро­пы, по­лу­чил на­зва­ние «________________ре­во­лю­ции».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: белая",
+    "answers": [
+        "бархатной"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}
