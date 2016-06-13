@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ве­де­ны тер­ми­ны, свя­зан­ные с ис­то­ри­ей рус­ской куль­ту­ры. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к рус­ской куль­ту­ре XVII в. Най­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "mainText"          : "\n1) Пар­су­на;\n2) эк­лек­ти­ка;\n3) фрес­ка;\n4) икона;\n5) ампир;\n6) при­двор­ный театр.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 15",
+    "answers": [
+        "2",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

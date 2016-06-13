@@ -1,0 +1,25 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "За­пол­ни­те пу­стые ячей­ки таб­ли­цы, ис­поль­зуя пред­став­лен­ные ниже дан­ные: для каж­до­го про­пус­ка, обо­зна­чен­но­го бук­ва­ми, вы­бе­ри­те номер нуж­но­го эле­мен­та.",
+    "mainText"          : "\nПро­пу­щен­ные эле­мен­ты:\n1) про­кла­ма­ция «Мо­ло­дая Рос­сия»\n2) И. Ак­са­ков\n3) Ма­ни­фест Ком­му­ни­сти­че­ской пар­тии\n4) В. Чер­нов\n5) «Рус­ская прав­да»\n6) 1848 г.\n7) П. Пе­стель\n8) 1903 г.\n9) 1879 г.\nЗа­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "9",
+        "4",
+        "3",
+        "6",
+        "5",
+        "7"
+    ],
+    "addPictureInTop"           : true,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant9/task11/img/IMGEGE.History.Variant9.Task11_Img1.png"]
+}

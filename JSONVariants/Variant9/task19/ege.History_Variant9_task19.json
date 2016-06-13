@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Какие па­мят­ники ар­хи­тек­ту­ры были по­стро­ены в пе­ри­од су­ще­ство­ва­ния им­пе­рии, ко­то­рой по­свя­ще­на ка­ри­ка­ту­ра? В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+    "mainText"         : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "1",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant9/task18/img/IMGEGE.History.Variant9.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant9/task19/img/IMGEGE.History.Variant9.Task19_Img1.png"]
+}

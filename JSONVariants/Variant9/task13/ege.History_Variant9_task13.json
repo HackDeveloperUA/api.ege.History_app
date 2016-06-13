@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : "Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние",
+    "mainText"          : "На­зо­ви­те им­пе­ра­то­ра, при ко­то­ром были под­чи­не­ны Рос­сии тер­ри­то­рии, обо­зна­чен­ные на схеме циф­ра­ми «2», «3» и «4».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: НиколайПервый",
+    "answers": [
+        "АлександрВторой"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant9/task13/img/IMGEGE.History.Variant9.Task13_Img1.png"]
+}

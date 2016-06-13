@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Что из на­зван­но­го было по­стро­е­но в годы пер­вых пя­ти­ле­ток? Ука­жи­те три эле­мен­та.",
+    "mainText"          : "\n1) Ша­тур­ская элек­тро­стан­ция\n2) Ста­лин­град­ский трак­тор­ный завод\n3) Земо-Ав­чаль­ская ГЭС\n4) Маг­ни­то­гор­ский ме­тал­лур­ги­че­ский ком­би­нат\n5) Пу­ти­лов­ский завод в Ле­нин­гра­де\n6) Ав­то­мо­биль­ный завод АМО(ЗИЛ) в Москве",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "2",
+        "4",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

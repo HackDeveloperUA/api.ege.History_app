@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ной ка­ри­ка­ту­ре яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те 2 суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в ответ цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"         : "\n1) Одним из по­след­ствий Пер­вой ми­ро­вой войны стал рас­пад им­пе­рии, ко­то­рой по­свя­ще­на дан­ная ка­ри­ка­ту­ра.\n2) Рос­сия ни­ко­гда не под­пи­сы­ва­ла меж­ду­на­род­ных до­го­во­ров с им­пе­ри­ей, ко­то­рой по­свя­ще­на ка­ри­ка­ту­ра.\n3) Им­пе­рия, ко­то­рой по­свя­ще­на ка­ри­ка­ту­ра, вхо­ди­ла в Ан­тан­ту.\n4) Во время Пер­вой ми­ро­вой войны рус­ской армии уда­лось вре­мен­но за­хва­тить часть тер­ри­то­рии им­пе­рии, ко­то­рой по­свя­ще­на ка­ри­ка­ту­ра.\n5) В со­став им­пе­рии, ко­то­рой по­свя­ще­на ка­ри­ка­ту­ра, вхо­ди­ла Прус­сия.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant9/task18/img/IMGEGE.History.Variant9.Task18_Img1.png"]
+}
