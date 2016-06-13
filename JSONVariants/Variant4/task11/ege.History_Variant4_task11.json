@@ -17,7 +17,7 @@
         "4",
         "1"
     ],
-    "addPictureInTop"           : true,
+    "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
