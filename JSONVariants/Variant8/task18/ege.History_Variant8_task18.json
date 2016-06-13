@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ной марке яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в ответ цифры, под ко­то­ры­ми они ука­за­ны.",
+     "mainText"         : "\n1) Со­бы­тие, в честь юби­лея ко­то­ро­го вы­пу­ще­на дан­ная марка, про­изо­шло в эпоху двор­цо­вых пе­ре­во­ро­тов.\n2) Ис­то­ри­че­ский де­я­тель, имя ко­то­ро­го ука­за­но на марке, при­ни­мал уча­стие в со­зда­нии учеб­но­го за­ве­де­ния, изоб­ражённого на марке.\n3) Учеб­ное за­ве­де­ние, юби­лею ко­то­ро­го по­свящён вы­пуск дан­ной марки, ос­но­ва­но в го­ро­де, во­шед­шем в со­став Рос­сии в XVII в.\n4) Зда­ние, изоб­ражённое на поч­то­вой марке, — па­мят­ник ар­хи­тек­ту­ры эпохи клас­си­циз­ма.\n5) Дан­ная марка вы­пу­ще­на в годы «хо­лод­ной войны».",
+      "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "4",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant8/task18/img/IMGEGE.History.Variant8.Task18_Img1.png"]
+}

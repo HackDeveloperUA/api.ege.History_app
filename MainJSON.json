@@ -118,6 +118,23 @@
                     "variantBigImg": ""
                 }
             ]
+        },
+                {
+            "variantName": "Вариант 8",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant8/ege.History_Variant8.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён спи­сок тер­ми­нов. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к со­бы­ти­ям (яв­ле­ни­ям) пе­ри­о­да пе­ре­строй­ки в СССР.Най­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "mainText"          : "\n1) уско­ре­ние;\n2) «война за­ко­нов»;\n3) фе­де­раль­ные окру­га;\n4) новое по­ли­ти­че­ское мыш­ле­ние;\n5) ре­фе­рен­дум;\n6) де­фолт.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

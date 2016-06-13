@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : "Какие три пред­ло­же­ния по ре­фор­ми­ро­ва­нию эко­но­ми­ки СССР из пе­ре­чис­лен­ных ниже со­дер­жа­лись в про­грам­ме «500 дней»? Со­от­вет­ству­ю­щие цифры за­пи­ши­те в ответ.",
+     "mainText"          : "\n1) уси­ле­ние и раз­ви­тие пла­ни­ро­ва­ния эко­но­ми­че­ских по­ка­за­те­лей\n2) про­ве­де­ние «по­ли­ти­ки уско­ре­ния»\n3) при­ва­ти­за­ция го­су­дар­ствен­ной соб­ствен­но­сти\n4) де­цен­тра­ли­за­ция управ­ле­ния эко­но­ми­кой\n5) пол­ный отказ от внеш­них за­им­ство­ва­ний, опора на соб­ствен­ные силы\n6) со­зда­ние бла­го­при­ят­ных усло­вий для раз­ви­тия част­но­го пред­при­ни­ма­тель­ства",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "3",
+        "4",
+        "6"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

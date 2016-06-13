@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Ука­жи­те тер­мин, о ко­то­ром идёт речь.",
+   "mainText"           : "_________________ – одна из фрак­ций в Го­су­дар­ствен­ной думе, со­сто­яв­шая из кре­стьян и на­род­ни­че­ской ин­тел­ли­ген­ции, вы­дви­нув­шая ра­ди­каль­ный про­ект ре­ше­ния зе­мель­но­го во­про­са – «про­ект 104-х».",
+   "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: закрепощениекрестьян",
+    "answers": [
+        "трудовики"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

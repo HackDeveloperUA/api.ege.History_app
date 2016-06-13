@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 15",
+    "taskDefinition"    : "Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние.",
+    "mainText"          : "Ука­жи­те на­зва­ние сто­ли­цы го­су­дар­ства, обо­зна­чен­ной на схеме циф­рой «1».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Стамбул",
+    "answers": [
+     "Константинополь"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant8/task13/img/IMGEGE.History.Variant8.Task13_Img1.png"]
+}
