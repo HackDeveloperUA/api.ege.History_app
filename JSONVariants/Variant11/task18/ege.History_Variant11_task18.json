@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "\n1) изоб­ражённое зда­ние вы­стро­е­но в стиле клас­си­циз­ма\n2) ар­хи­тек­тор зда­ния — А. Н. Во­ро­ни­хин\n3) ис­то­рия зда­ния свя­за­на с ис­то­ри­ей до­ре­во­лю­ци­он­ных Го­су­дар­ствен­ных дум\n4) зда­ние было по­стро­е­но в XIX в.\n5) зда­ние на­хо­дит­ся в Москве",
+     "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1",
+        "3"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task18/img/IMGEGE.History.Variant11.Task18_Img1.png"]
+}
