@@ -17,5 +17,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant2/task18/img/IMGEGE.History.Variant2.Task18_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant3/task18/img/IMGEGE.History.Variant3.Task18_Img1.png"]
 }

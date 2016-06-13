@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 5",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между об­ще­ствен­ны­ми дви­же­ни­я­ми, на­прав­ле­ни­я­ми об­ще­ствен­ной мысли и по­зи­ци­я­ми, иде­я­ми, ими за­щи­ща­е­мы­ми: к каж­дой по­зи­ции пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щую по­зи­цию вто­ро­го столб­ца.",
+    "mainText"          : "За­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 6142",
+    "answers": [
+        "3",
+        "5",
+        "2",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": [ "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task5/img/IMGEGE.History.Variant4.Task5_Img1.png"]
+}

@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 7",
+    "taskDefinition"    : " Вы­бе­ри­те из спис­ка три меры, от­но­ся­щи­е­ся к су­деб­ной ре­фор­ме им­пе­ра­то­ра Алек­сандра II. Со­от­вет­ству­ю­щие цифры за­пи­ши­те в ответ.",
+    "mainText"          : "\n1) от­ме­на те­лес­ных на­ка­за­ний для кре­стьян\n2) уста­нов­ле­ние не­за­ви­си­мо­сти след­ствия от по­ли­ции\n3) осо­бый во­лост­ной суд для кре­стьян\n4) вве­де­ние ин­сти­ту­та «при­сяж­ных по­ве­рен­ных» (ад­во­ка­тов)\n5) вве­де­ние про­ку­ра­ту­ры\n6) уни­что­же­ние осо­бо­го цер­ков­но­го суда",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 13",
+    "answers": [
+        "3",
+        "4",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

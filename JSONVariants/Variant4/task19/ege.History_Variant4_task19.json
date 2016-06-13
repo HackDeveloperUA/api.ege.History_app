@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : " Ука­жи­те поч­то­вые марки, вы­пу­щен­ные в пе­ри­од ру­ко­вод­ства СССР по­ли­ти­че­ско­го де­я­те­ля, при ко­то­ром была со­зда­на дан­ная ка­ри­ка­ту­ра. В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+     "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "3",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task18/img/IMGEGE.History.Variant4.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task19/img/IMGEGE.History.Variant4.Task19_Img1.png"]
+}

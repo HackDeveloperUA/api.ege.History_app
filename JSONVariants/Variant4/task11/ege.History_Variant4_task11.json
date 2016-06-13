@@ -1,0 +1,25 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "За­пол­ни­те пу­стые ячей­ки таб­ли­цы, ис­поль­зуя пред­став­лен­ные в при­ведённом ниже спис­ке дан­ные. Для каж­дой ячей­ки, обо­зна­чен­ной бук­ва­ми, вы­бе­ри­те номер нуж­но­го эле­мен­та.",
+    "mainText"          : "\nПро­пу­щен­ные эле­мен­ты:\n1) но­ябрь 1991 г. − июнь 1992 г.\n2) на­ча­ло ре­а­ли­за­ции при­о­ри­тет­ных на­ци­о­наль­ных про­ек­тов\n3) был аме­ри­кан­ским пре­зи­ден­том когда было при­ня­то ре­ше­ние НАТО о бом­бар­ди­ров­ке Юго­сла­вии\n4) де­кабрь 1992 г. − март 1998 г.\n5) B.C. Чер­но­мыр­дин\n6) объ­яв­ле­ние тех­ни­че­ско­го де­фол­та\n7) С.В. Ки­ри­ен­ко\n8) май−ав­густ 1999 г.\n9) М.М. Ка­сья­нов\nЗа­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "7",
+        "6",
+        "3",
+        "5",
+        "4",
+        "1"
+    ],
+    "addPictureInTop"           : true,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task11/img/IMGEGE.History.Variant4.Task11_Img1.png"]
+}

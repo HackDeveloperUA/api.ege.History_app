@@ -1,0 +1,22 @@
+{
+    "taskName": "Задание 14",
+    "taskDefinition": "Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние",
+    "mainText": "Ука­жи­те на­зва­ние гео­гра­фи­че­ско­го ре­ги­о­на Рос­сии, где было скон­цен­три­ро­ва­но боль­шин­ство круп­ных ме­тал­лур­ги­че­ских пред­при­я­тий.",
+    "noValidAnswerTotheRecord": false,
+    "pictureForNoValidAnswer": "",
+    "primaryScore": 1,
+    "onlyOneCorrectAnswer": true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence": false,
+    "expectedAnswer": "Напр: Эльбрус",
+    "answers": [
+        "Урал"
+    ],
+    "addPictureInTop": false,
+    "chooseAnswerFromPicker": false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection": "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": [
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task13/img/IMGEGE.History.Variant4.Task13_Img1.png"
+    ]
+}

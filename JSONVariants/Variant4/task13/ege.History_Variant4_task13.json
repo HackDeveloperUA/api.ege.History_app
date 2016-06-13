@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 13",
+    "taskDefinition"    : "Рас­смот­ри­те схему и вы­пол­ни­те за­да­ние.",
+    "mainText"          : "На­зо­ви­те им­пе­ра­то­ра, в пе­ри­од прав­ле­ния ко­то­ро­го к Рос­сий­ской им­пе­рии была при­со­еди­не­на тер­ри­то­рия, обо­зна­чен­ная на схеме циф­рой «IV».",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Курск",
+    "answers": [
+        "НиколайПервый"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task13/img/IMGEGE.History.Variant4.Task13_Img1.png"]
+}

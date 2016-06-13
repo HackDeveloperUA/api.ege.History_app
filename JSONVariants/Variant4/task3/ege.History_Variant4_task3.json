@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён пе­ре­чень тер­ми­нов, в том числе аб­бре­ви­а­тур. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к си­сте­ме го­су­дар­ствен­но­го и пар­тий­но­го управ­ле­ния 1970-х гг.\nНай­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "mainText"          : "\n1) Вер­хов­ный Совет 2) По­лит­бю­ро 3) Совет ми­ни­стров \n4) Го­су­дар­ствен­ная Дума 5) Го­су­дар­ствен­ный совет 6) ЦК КПСС",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "4",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

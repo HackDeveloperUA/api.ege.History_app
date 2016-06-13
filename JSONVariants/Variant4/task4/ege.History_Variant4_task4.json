@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "На­пи­ши­те тер­мин, о ко­то­ром идёт речь.",
+    "mainText"          : "«Члены фрак­ции, со­здан­ной в ап­ре­ле 1906 г. груп­пой де­пу­та­тов I Го­су­дар­ствен­ной думы из кре­стьян и ин­тел­ли­ген­тов на­род­ни­че­ско­го на­прав­ле­ния.»",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: дом",
+    "answers": [
+        "трудовики"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
+    "mainText"          : "\n1) Ка­ри­ка­ту­ра по­свя­ще­на со­бы­ти­ям конца 1920–1930-х гг.\n2) Ка­ри­ка­ту­ра по­свя­ще­на со­бы­ти­ям, про­ис­хо­див­шим в рам­ках борь­бы И. В. Ста­ли­на с «троц­кист­ской оп­по­зи­ци­ей».\n3) Автор ка­ри­ка­ту­ры под­дер­жи­ва­ет со­ци­аль­но-эко­но­ми­че­скую мо­дель со­вет­ско­го об­ще­ства, сло­жив­шу­ю­ся в пе­ри­од нэпа.\n4) По­ли­ти­че­ский де­я­тель, изоб­ражённый на ка­ри­ка­ту­ре, за­ни­мал пост Пред­се­да­те­ля Со­ве­та На­род­ных Ко­мис­са­ров СССР.\n5) По­ли­ти­че­ский де­я­тель, изоб­ражённый на ка­ри­ка­ту­ре, участ­во­вал в от­стра­не­нии от вла­сти Н. С. Хрущёва в 1964 г.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "1",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant4/task18/img/IMGEGE.History.Variant4.Task18_Img1.png"]
+}
