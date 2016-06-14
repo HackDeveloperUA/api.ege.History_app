@@ -1,7 +1,7 @@
 {
     "taskName"          : "Задание 13",
-    "taskDefinition"    : "На­зо­ви­те мо­нар­ха, в пе­ри­од прав­ле­ния ко­то­ро­го в со­став Рос­сий­ско­го го­су­дар­ства вошёл город, обо­зна­чен­ный на схеме циф­рой «3».",
-    "mainText"          : "",
+    "taskDefinition"    : "На­пи­ши­те фа­ми­лию ко­ман­ду­ю­ще­го Южным фрон­том РККА в этом сра­же­нии Граж­дан­ской войны.",
+   "mainText"           : "",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
@@ -10,11 +10,11 @@
     "mandatorySequence" : false,
     "expectedAnswer"    : "Напр: НиколайВторой",
     "answers": [
-        "АлексейМихайлович"
+        "Фрунзе"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Выпишите словосочетания без пробелов",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task13/img/IMGEGE.History.Variant11.Task13_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/task13/img/IMGEGE.History.Variant13.Task13_Img1.png"]
 }

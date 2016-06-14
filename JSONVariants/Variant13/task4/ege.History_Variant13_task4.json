@@ -1,16 +1,16 @@
 {
     "taskName"          : "Задание 4",
-    "taskDefinition"    : "Ука­жи­те тер­мин, о ко­то­ром идёт речь.",
-   "mainText"           : "«Части на­хо­див­ших­ся в поль­зо­ва­нии кре­стьян на­де­лов, пе­ре­дан­ные по Кре­стьян­ской ре­фор­ме 1861 г. по­ме­щи­кам.»",
+    "taskDefinition"    : "На­пи­ши­те про­пу­щен­ное по­ня­тие (тер­мин).",
+    "mainText"          : "При­ме­няв­ша­я­ся в годы нэпа сдача ино­стран­ным пред­при­ни­ма­те­лям в экс­плу­а­та­цию на опре­делённых усло­ви­ях при­род­ных бо­гатств, пред­при­я­тий и дру­гих хо­зяй­ствен­ных объ­ек­тов, при­над­ле­жа­щих го­су­дар­ству, на­зы­ва­ет­ся ________.",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
     "onlyOneCorrectAnswer"      : true,
     "divideTheAnswerForEachCharacter": false,
     "mandatorySequence" : false,
-    "expectedAnswer"    : "Напр: белая",
+    "expectedAnswer"    : "Напр: переговоры",
     "answers": [
-        "отрезки"
+        "концессией"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,

@@ -1,6 +1,6 @@
 {
     "taskName"          : "Задание 19",
-    "taskDefinition"    : "Какие пра­ви­те­ли жили в том же веке, когда был по­стро­ен дан­ный дво­рец? В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+    "taskDefinition"    : "Ука­жи­те па­мят­ники ар­хи­тек­ту­ры, по­стро­ен­ные в годы прав­ле­ния им­пе­ра­то­ра, изоб­ражённого на ку­пю­ре. В от­ве­те за­пи­ши­те две цифры, ко­то­рыми обо­зна­чены эти па­мят­ники ар­хи­тек­ту­ры.",
     "mainText"          : "",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
@@ -10,13 +10,13 @@
     "mandatorySequence" : false,
     "expectedAnswer"    : "Напр: 1",
     "answers": [
-        "1",
+        "3",
         "4"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task18/img/IMGEGE.History.Variant11.Task18_Img1.png",
-                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task19/img/IMGEGE.History.Variant11.Task19_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/task18/img/IMGEGE.History.Variant13.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/task19/img/IMGEGE.History.Variant13.Task19_Img1.png"]
 }

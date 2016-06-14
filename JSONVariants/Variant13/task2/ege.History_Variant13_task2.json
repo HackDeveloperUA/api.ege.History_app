@@ -1,6 +1,6 @@
 {
     "taskName"          : "Задание 2",
-    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между со­бы­ти­я­ми и го­да­ми: к каж­дой по­зи­ции пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щую по­зи­цию из вто­ро­го столб­ца.",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между меж­ду­на­род­ны­ми кри­зи­са­ми, участ­ни­ка­ми ко­то­рых вы­сту­пал СССР, и их да­та­ми.",
     "mainText"          : "",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
@@ -11,13 +11,13 @@
     "expectedAnswer"    : "Напр: 3510",
     "answers": [
         "2",
-        "5",
+        "4",
         "3",
-        "4"
+        "1"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task2/img/IMGEGE.History.Variant11.Task2_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/task2/img/IMGEGE.History.Variant13.Task2_Img1.png"]
 }

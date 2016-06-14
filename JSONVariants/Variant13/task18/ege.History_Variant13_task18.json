@@ -1,8 +1,8 @@
 {
     "taskName"          : "Задание 18",
     "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
-    "mainText"          : "\n1) изоб­ражённое зда­ние вы­стро­е­но в стиле клас­си­циз­ма\n2) ар­хи­тек­тор зда­ния — А. Н. Во­ро­ни­хин\n3) ис­то­рия зда­ния свя­за­на с ис­то­ри­ей до­ре­во­лю­ци­он­ных Го­су­дар­ствен­ных дум\n4) зда­ние было по­стро­е­но в XIX в.\n5) зда­ние на­хо­дит­ся в Москве",
-     "noValidAnswerTotheRecord"  : false,
+    "mainText"          : "\n1) Дан­ная ку­пю­ра вы­пу­ще­на после на­ча­ла де­неж­ной ре­фор­мы, про­ведённой под ру­ко­вод­ством С. Ю. Витте.\n2) Герб, изоб­ражённый на ку­пю­ре, яв­лял­ся гер­бом Рос­сии ещё в те­че­ние более чем 20 лет после вы­пус­ка дан­ной ку­пю­ры.\n3) В пе­ри­од прав­ле­ния им­пе­ра­то­ра, изоб­ражённого на ку­пю­ре, в Рос­сии на­ча­лось же­лез­но­до­рож­ное стро­и­тель­ство.\n4) Им­пе­ра­тор, в годы прав­ле­ния ко­то­ро­го была вы­пу­ще­на дан­ная ку­пю­ра, был вну­ком им­пе­ра­то­ра, изоб­ражённого на ку­пю­ре.\n5) В год вы­пус­ка дан­ной ку­пю­ры про­изо­шла тра­ге­дия на Ходын­ском поле.",
+    "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
     "onlyOneCorrectAnswer"      : false,
@@ -17,5 +17,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task18/img/IMGEGE.History.Variant11.Task18_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/task18/img/IMGEGE.History.Variant13.Task18_Img1.png"]
 }
