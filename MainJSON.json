@@ -203,6 +203,57 @@
                     "variantBigImg": ""
                 }
             ]
+        },
+         {
+            "variantName": "Вариант 13",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant13/ege.History_Variant13.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+         {
+            "variantName": "Вариант 14",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant14/ege.History_Variant14.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
+        },
+         {
+            "variantName": "Вариант 15",
+            "variantDescription": "",
+            "linkOnFullVariant": "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant15/ege.History_Variant15.json",
+            "variantImages": [
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                },
+                {
+                    "variantSmallImg": "",
+                    "variantMiddleImg": "",
+                    "variantBigImg": ""
+                }
+            ]
         }
     ]
 }
