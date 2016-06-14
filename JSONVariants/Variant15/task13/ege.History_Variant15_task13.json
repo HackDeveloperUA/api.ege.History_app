@@ -1,20 +1,20 @@
 {
     "taskName"          : "Задание 13",
-    "taskDefinition"    : "На­зо­ви­те мо­нар­ха, в пе­ри­од прав­ле­ния ко­то­ро­го в со­став Рос­сий­ско­го го­су­дар­ства вошёл город, обо­зна­чен­ный на схеме циф­рой «3».",
-    "mainText"          : "",
+    "taskDefinition"    : "Рас­смот­ри­те схему дей­ствий бе­ло­гвар­дей­цев в ходе од­но­го из пе­ри­о­дов Граж­дан­ской войны в Рос­сии и вы­пол­ни­те за­да­ние.",
+    "mainText"          : "Ука­жи­те фа­ми­лию глав­но­ко­ман­ду­ю­ще­го бе­ло­гвар­дей­ски­ми вой­ска­ми, до­стиг­ши­ми линии, обо­зна­чен­ной на схеме циф­рой «2».",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
     "onlyOneCorrectAnswer"      : true,
     "divideTheAnswerForEachCharacter": false,
     "mandatorySequence" : false,
-    "expectedAnswer"    : "Напр: НиколайВторой",
+    "expectedAnswer"    : "Напр: АлександрПервый",
     "answers": [
-        "АлексейМихайлович"
+        "Деникин"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Выпишите словосочетания без пробелов",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task13/img/IMGEGE.History.Variant11.Task13_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant15/task13/img/IMGEGE.History.Variant15.Task13_Img1.png"]
 }

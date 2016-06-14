@@ -10,16 +10,16 @@
     "mandatorySequence" : true,
     "expectedAnswer"    : "Напр: 862453",
     "answers": [
-        "4",
-        "2",
-        "7",
         "8",
+        "9",
+        "2",
+        "3",
         "6",
-        "9"
+        "5"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task11/img/IMGEGE.History.Variant11.Task11_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant15/task11/img/IMGEGE.History.Variant15.Task11_Img1.png"]
 }

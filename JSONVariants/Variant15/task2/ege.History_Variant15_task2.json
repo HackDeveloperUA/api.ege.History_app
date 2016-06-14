@@ -10,14 +10,14 @@
     "mandatorySequence" : true,
     "expectedAnswer"    : "Напр: 3510",
     "answers": [
-        "2",
         "5",
         "3",
+        "1",
         "4"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task2/img/IMGEGE.History.Variant11.Task2_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant15/task2/img/IMGEGE.History.Variant15.Task2_Img1.png"]
 }
