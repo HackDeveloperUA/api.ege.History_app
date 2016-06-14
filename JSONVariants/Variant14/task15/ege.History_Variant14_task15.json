@@ -1,6 +1,6 @@
 {
     "taskName"          : "Задание 15",
-    "taskDefinition"    : "За­пол­ни­те про­пуск в пред­ло­же­нии: «Циф­рой '1' на схеме обо­зна­чен город ______________, в не­по­сред­ствен­ной бли­зо­сти от ко­то­ро­го были по­стро­е­ны пер­вые в Рос­сии же­ле­зо­де­ла­тель­ные за­во­ды».",
+    "taskDefinition"    : "На­пи­ши­те на­зва­ние мест­но­сти, где про­изо­шло сра­же­ние, обо­зна­чен­ное на схеме циф­рой «2».",
     "mainText"          : "",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
@@ -8,13 +8,13 @@
     "onlyOneCorrectAnswer"      : true,
     "divideTheAnswerForEachCharacter": false,
     "mandatorySequence" : false,
-    "expectedAnswer"    : "Напр: Москва",
+    "expectedAnswer"    : "Напр: ГуляйПоле",
     "answers": [
-            "Тула"
+            "Бородино"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Выпишите словосочетания без пробелов",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task13/img/IMGEGE.History.Variant11.Task13_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant14/task13/img/IMGEGE.History.Variant14.Task13_Img1.png"]
 }

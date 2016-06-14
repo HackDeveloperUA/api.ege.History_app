@@ -1,8 +1,8 @@
 {
     "taskName"          : "Задание 18",
-    "taskDefinition"    : "Какие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.",
-    "mainText"          : "\n1) изоб­ражённое зда­ние вы­стро­е­но в стиле клас­си­циз­ма\n2) ар­хи­тек­тор зда­ния — А. Н. Во­ро­ни­хин\n3) ис­то­рия зда­ния свя­за­на с ис­то­ри­ей до­ре­во­лю­ци­он­ных Го­су­дар­ствен­ных дум\n4) зда­ние было по­стро­е­но в XIX в.\n5) зда­ние на­хо­дит­ся в Москве",
-     "noValidAnswerTotheRecord"  : false,
+    "taskDefinition"    : "Какие суж­де­ния о дан­ном па­мят­ни­ке ар­хи­тек­ту­ры яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны,",
+    "mainText"          : "\n1) это зда­ние было по­стро­е­но во вто­рой по­ло­ви­не XIX в.\n2) зда­ние по­стро­е­но в стиле клас­си­циз­ма\n3) это зда­ние на­хо­дит­ся в Москве\n4) зда­ние было по­стро­е­но при им­пе­ра­то­ре Алек­сан­дре I\n5) в со­зда­нии про­ек­та зда­ния при­ни­мал уча­стие ар­хи­тек­тор И. О. Бове",
+    "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
     "onlyOneCorrectAnswer"      : false,
@@ -17,5 +17,5 @@
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task18/img/IMGEGE.History.Variant11.Task18_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant14/task18/img/IMGEGE.History.Variant14.Task18_Img1.png"]
 }

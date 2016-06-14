@@ -1,6 +1,6 @@
 {
     "taskName"          : "Задание 17",
-    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между па­мят­ни­ка­ми куль­ту­ры и их ав­то­ра­ми: к каж­дой по­зи­ции пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щую по­зи­цию из вто­ро­го столб­ца.",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между па­мят­ни­ка­ми куль­ту­ры и их крат­ки­ми ха­рак­те­ри­сти­ка­ми: к каж­дой по­зи­ции пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щую по­зи­цию из вто­ро­го столб­ца.",
     "mainText"          : "",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
@@ -10,14 +10,14 @@
     "mandatorySequence" : true,
     "expectedAnswer"    : "Напр: 241",
     "answers": [
-        "1",
         "2",
-        "6",
-        "3"
+        "4",
+        "1",
+        "6"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
     "arrayExpectedAnswerForPicker": [],
     "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
-    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task17/img/IMGEGE.History.Variant11.Task17_Img1.png"]
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant14/task17/img/IMGEGE.History.Variant14.Task17_Img1.png"]
 }

@@ -5,8 +5,8 @@
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
-    "onlyOneCorrectAnswer"      : true,
-    "divideTheAnswerForEachCharacter": false,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,
     "expectedAnswer"    : "Напр: 1",
     "answers": [
