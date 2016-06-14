@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 9",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между фа­ми­ли­я­ми со­вет­ских го­су­дар­ствен­ных и пар­тий­ных де­я­те­лей и их ролью в со­бы­ти­ях 1920–1930-х гг.: к каж­до­му эле­мен­ту пер­во­го столб­ца под­бе­ри­те со­от­вет­ству­ю­щий эле­мент из вто­ро­го столб­ца.",
+     "mainText"         : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 571",
+    "answers": [
+        "3",
+        "2",
+        "5",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task9/img/IMGEGE.History.Variant11.Task9_Img1.png"]
+}

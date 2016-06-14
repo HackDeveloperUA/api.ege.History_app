@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 18",
+    "taskDefinition"    : "Рас­смот­ри­те изоб­ра­же­ние и вы­пол­ни­те за­да­ние",
+    "mainText"         : "\nКакие суж­де­ния о дан­ном изоб­ра­же­нии яв­ля­ют­ся вер­ны­ми? Вы­бе­ри­те два суж­де­ния из пяти пред­ло­жен­ных. За­пи­ши­те в таб­ли­цу цифры, под ко­то­ры­ми они ука­за­ны.\n\n1) Че­ло­век, изоб­ражённый на поч­то­вом блоке, яв­ля­ет­ся ав­то­ром «плана ав­то­но­ми­за­ции», ко­то­рый был осу­ществлён при об­ра­зо­ва­нии СССР.\n2) По­ли­ти­че­ский де­я­тель, изоб­ражённый на поч­то­вом блоке, умер менее чем через два года после со­бы­тия, го­дов­щи­не ко­то­ро­го по­свящён поч­то­вый блок.\n3) Че­ло­век, изоб­ражённый на поч­то­вом блоке, яв­лял­ся Пред­се­да­те­лем СНК.\n4) Герб, изоб­ражённый на поч­то­вом блоке, су­ще­ство­вал в не­из­мен­ном виде с мо­мен­та об­ра­зо­ва­ния СССР.\n5) На поч­то­вом блоке пред­став­ле­ны толь­ко флаги рес­пуб­лик, во­шед­ших в со­став СССР в мо­мент его об­ра­зо­ва­ния.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 241",
+    "answers": [
+        "2",
+        "3"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task18/img/IMGEGE.History.Variant12.Task18_Img1.png"]
+}

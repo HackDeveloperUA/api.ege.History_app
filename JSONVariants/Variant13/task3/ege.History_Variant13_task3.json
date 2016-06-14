@@ -1,0 +1,21 @@
+{
+    "taskName"          : "Задание 3",
+    "taskDefinition"    : "Ниже при­ведён ряд тер­ми­нов, по­ня­тий. Все они, за ис­клю­че­ни­ем двух, от­но­сят­ся к пе­ри­о­ду прав­ле­ния Ивана Гроз­но­го.",
+    "mainText"          : "\n1) Из­бран­ная рада;\n2) Зем­щи­на;\n3) стрель­цы;\n4) пат­ри­арх всея Руси;\n5) Сенат;\n6) зем­ские ста­ро­сты.\nНай­ди­те и за­пи­ши­те по­ряд­ко­вые но­ме­ра тер­ми­нов, от­но­ся­щих­ся к дру­го­му ис­то­ри­че­ско­му пе­ри­о­ду.",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 15",
+    "answers": [
+        "4",
+        "5"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": []
+}

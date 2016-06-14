@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Ука­жи­те тер­мин, о ко­то­ром идёт речь.",
+   "mainText"           : "«Части на­хо­див­ших­ся в поль­зо­ва­нии кре­стьян на­де­лов, пе­ре­дан­ные по Кре­стьян­ской ре­фор­ме 1861 г. по­ме­щи­кам.»",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: белая",
+    "answers": [
+        "отрезки"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

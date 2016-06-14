@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 4",
+    "taskDefinition"    : "Ука­жи­те тер­мин, о ко­то­ром идёт речь.",
+     "mainText"         : "«Долж­ност­ное лицо в Рос­сии, на­зна­чав­ше­е­ся для раз­бо­ра спо­ров и жалоб, воз­ни­кав­ших между кре­стья­на­ми и по­ме­щи­ка­ми в пе­ри­од ре­а­ли­за­ции По­ло­же­ний 19 фев­ра­ля 1861 г.»",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: международнаякомпания",
+    "answers": [
+        "мировойпосредник"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": []
+}

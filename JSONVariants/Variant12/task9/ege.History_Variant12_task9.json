@@ -1,0 +1,23 @@
+{
+    "taskName"          : "Задание 9",
+    "taskDefinition"    : "Уста­но­ви­те со­от­вет­ствие между ре­фор­ма­ми и фа­ми­ли­я­ми ру­ко­во­ди­те­лей СССР, в пе­ри­од прав­ле­ния ко­то­рых эти ре­фор­мы были про­ве­де­ны.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 571",
+    "answers": [
+        "2",
+        "5",
+        "3",
+        "1"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task9/img/IMGEGE.History.Variant12.Task9_Img1.png"]
+}

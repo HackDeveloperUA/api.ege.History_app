@@ -1,0 +1,25 @@
+{
+    "taskName"          : "Задание 11",
+    "taskDefinition"    : "За­пол­ни­те пу­стые ячей­ки таб­ли­цы, ис­поль­зуя пред­став­лен­ные в при­ведённом ниже спис­ке дан­ные. Для каж­дой ячей­ки, обо­зна­чен­ной бук­ва­ми, вы­бе­ри­те номер нуж­но­го эле­мен­та.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : false,
+    "divideTheAnswerForEachCharacter": true,
+    "mandatorySequence" : true,
+    "expectedAnswer"    : "Напр: 862453",
+    "answers": [
+        "4",
+        "2",
+        "7",
+        "8",
+        "6",
+        "9"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task11/img/IMGEGE.History.Variant11.Task11_Img1.png"]
+}

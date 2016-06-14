@@ -1,0 +1,20 @@
+{
+    "taskName"          : "Задание 15",
+    "taskDefinition"    : "За­пол­ни­те про­пуск в пред­ло­же­нии: «Циф­рой '1' на схеме обо­зна­чен город ______________, в не­по­сред­ствен­ной бли­зо­сти от ко­то­ро­го были по­стро­е­ны пер­вые в Рос­сии же­ле­зо­де­ла­тель­ные за­во­ды».",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: Москва",
+    "answers": [
+            "Тула"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Выпишите словосочетания без пробелов",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant11/task13/img/IMGEGE.History.Variant11.Task13_Img1.png"]
+}

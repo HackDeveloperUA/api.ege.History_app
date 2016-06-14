@@ -1,0 +1,40 @@
+{
+    "variantName": "Варинат 12",
+    "variantDescription": "История. ЕГЭ 2016",
+    "executionTimeInSeconds": 12600,
+    "maxPrimaryBall" : 57,
+    "countTask": 19,
+    "variantImages": [
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        },
+        {
+            "variantSmallImg": "",
+            "variantMiddleImg": "",
+            "variantBigImg": ""
+        }
+    ],
+    "tasks": [
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task1/ege.History_Variant12_task1.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task2/ege.History_Variant12_task2.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task3/ege.History_Variant12_task3.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task4/ege.History_Variant12_task4.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task5/ege.History_Variant12_task5.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task6/ege.History_Variant12_task6.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task7/ege.History_Variant12_task7.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task8/ege.History_Variant12_task8.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task9/ege.History_Variant12_task9.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task10/ege.History_Variant12_task10.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task11/ege.History_Variant12_task11.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task12/ege.History_Variant12_task12.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task13/ege.History_Variant12_task13.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task14/ege.History_Variant12_task14.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task15/ege.History_Variant12_task15.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task16/ege.History_Variant12_task16.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task17/ege.History_Variant12_task17.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task18/ege.History_Variant12_task18.json",
+        "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task19/ege.History_Variant12_task19.json"
+    ]
+}

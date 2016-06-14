@@ -1,0 +1,22 @@
+{
+    "taskName"          : "Задание 19",
+    "taskDefinition"    : "Какие из изоб­ра­же­ний, пред­став­лен­ных ниже, от­но­сят­ся к со­бы­ти­ям (яв­ле­ни­ям) пе­ри­о­да, в ко­то­рый был вы­пу­щен дан­ный поч­то­вый блок? В от­ве­те за­пи­ши­те две цифры, под ко­то­рыми они ука­за­ны.",
+    "mainText"          : "",
+    "noValidAnswerTotheRecord"  : false,
+    "pictureForNoValidAnswer"   : "",
+    "primaryScore"              : 1,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
+    "expectedAnswer"    : "Напр: 1",
+    "answers": [
+        "1",
+        "4"
+    ],
+    "addPictureInTop"           : false,
+    "chooseAnswerFromPicker"    : false,
+    "arrayExpectedAnswerForPicker": [],
+    "actionDirection"             : "Введите цифрами без пробелов и иных знаков",
+    "arrURLImageForTask": ["https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task18/img/IMGEGE.History.Variant12.Task18_Img1.png",
+                          "https://raw.githubusercontent.com/HackDeveloperUA/api.ege.History_app/master/JSONVariants/Variant12/task19/img/IMGEGE.History.Variant12.Task19_Img1.png"]
+}
