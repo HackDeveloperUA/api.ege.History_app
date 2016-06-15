@@ -5,14 +5,12 @@
      "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
     "primaryScore"              : 1,
-    "onlyOneCorrectAnswer"      : false,
-    "divideTheAnswerForEachCharacter": true,
-    "mandatorySequence" : true,
+    "onlyOneCorrectAnswer"      : true,
+    "divideTheAnswerForEachCharacter": false,
+    "mandatorySequence" : false,
     "expectedAnswer"    : "Напр: 141",
     "answers": [
-        "2",
-        "1",
-        "3"
+        "213"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
