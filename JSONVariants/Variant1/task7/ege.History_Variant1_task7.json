@@ -4,7 +4,7 @@
     "mainText"          : "1. Бородинское сражение\n2. Гангутское морское сражение\n3. оборона Шипки\n4. сражение при Гросс-Егерсдорфе\n5. Синопское морское сражение\n6. сражение при Рымнике",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 2,
+    "primaryScore"              : 1,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : true,
