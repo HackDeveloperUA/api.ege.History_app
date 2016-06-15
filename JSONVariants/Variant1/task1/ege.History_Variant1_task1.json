@@ -10,7 +10,7 @@
     "mandatorySequence" : true,
     "expectedAnswer"    : "Напр: 241",
     "answers": [
-        "231"
+        "213"
     ],
     "addPictureInTop"           : false,
     "chooseAnswerFromPicker"    : false,
