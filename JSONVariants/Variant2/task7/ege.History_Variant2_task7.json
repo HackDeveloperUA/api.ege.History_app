@@ -4,7 +4,7 @@
     "mainText"          : "\n1) утвер­жде­ние част­ной соб­ствен­но­сти на землю\n2) вве­де­ние хоз­расчёта на го­су­дар­ствен­ных пред­при­я­ти­ях\n3) де­на­ци­о­на­ли­за­ция тяжёлой про­мыш­лен­но­сти\n4) по­яв­ле­ние кре­дит­но-бан­ков­ской си­сте­мы и бирж\n5) от­ме­на го­су­дар­ствен­ной мо­но­по­лии внеш­ней тор­гов­ли\n6) вве­де­ние кон­цес­сий",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : true,

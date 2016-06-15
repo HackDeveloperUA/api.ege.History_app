@@ -4,7 +4,7 @@
     "mainText"          : "\n1) А. И. Же­ля­бов\n2) В. И. Ленин\n3) К. Д. Ка­ве­лин\n4) В. Н. Фиг­нер\n5) Б. Н. Чи­че­рин\n6) С. М. Степ­няк-Крав­чин­ский",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,

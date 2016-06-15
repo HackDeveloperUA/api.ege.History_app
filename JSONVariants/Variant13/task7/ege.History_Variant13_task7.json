@@ -4,7 +4,7 @@
     "mainText"          : "\n1) Дне­прог­эс\n2) Харь­ков­ский трак­тор­ный завод\n3) Волж­ский ав­то­мо­биль­ный завод\n4) Пу­ти­лов­ский завод\n5) Маг­ни­то­гор­ский ме­тал­лур­ги­че­ский ком­би­нат\n6) Транс­си­бир­ская же­лез­ная ма­ги­страль",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,

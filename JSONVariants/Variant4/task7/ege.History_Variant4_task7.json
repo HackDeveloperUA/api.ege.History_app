@@ -4,7 +4,7 @@
     "mainText"          : "\n1) от­ме­на те­лес­ных на­ка­за­ний для кре­стьян\n2) уста­нов­ле­ние не­за­ви­си­мо­сти след­ствия от по­ли­ции\n3) осо­бый во­лост­ной суд для кре­стьян\n4) вве­де­ние ин­сти­ту­та «при­сяж­ных по­ве­рен­ных» (ад­во­ка­тов)\n5) вве­де­ние про­ку­ра­ту­ры\n6) уни­что­же­ние осо­бо­го цер­ков­но­го суда",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,

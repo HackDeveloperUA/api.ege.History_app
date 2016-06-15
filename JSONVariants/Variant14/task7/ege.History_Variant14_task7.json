@@ -4,7 +4,7 @@
     "mainText"          : "\n1) вве­де­ние кон­вер­ти­ру­е­мо­сти рубля\n2) де­на­ци­о­на­ли­за­ция го­су­дар­ствен­ных пред­при­я­тий\n3) рост бес­плат­ных услуг на­се­ле­нию\n4) от­ме­на част­ной соб­ствен­но­сти\n5) огра­ни­че­ние тор­гов­ли\n6) уси­ле­ние роли мел­кой бур­жу­а­зии",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,

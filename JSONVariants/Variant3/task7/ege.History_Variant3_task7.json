@@ -4,7 +4,7 @@
     "mainText"          : "\n1) стро­и­тель­ство пер­вой атом­ной элек­тро­стан­ции\n2) ава­рия на Чер­но­быль­ской АЭС\n3) от­кры­тие Ин­сти­ту­та ядер­ных ис­сле­до­ва­ний\n4) со­зда­ние атом­ных авиа­ци­он­ных дви­га­те­лей\n5) со­зда­ние пер­во­го атом­но­го ле­до­ко­ла «Ленин»\n6) со­зда­ние атом­ных под­вод­ных лодок",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : true,

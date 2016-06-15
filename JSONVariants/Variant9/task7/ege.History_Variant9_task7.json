@@ -4,7 +4,7 @@
     "mainText"          : "\n1) Ша­тур­ская элек­тро­стан­ция\n2) Ста­лин­град­ский трак­тор­ный завод\n3) Земо-Ав­чаль­ская ГЭС\n4) Маг­ни­то­гор­ский ме­тал­лур­ги­че­ский ком­би­нат\n5) Пу­ти­лов­ский завод в Ле­нин­гра­де\n6) Ав­то­мо­биль­ный завод АМО(ЗИЛ) в Москве",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : false,

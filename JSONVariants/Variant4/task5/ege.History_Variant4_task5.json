@@ -4,7 +4,7 @@
     "mainText"          : "За­пи­ши­те в ответ цифры, рас­по­ло­жив их в по­ряд­ке, со­от­вет­ству­ю­щем бук­вам: ",
     "noValidAnswerTotheRecord"  : false,
     "pictureForNoValidAnswer"   : "",
-    "primaryScore"              : 1,
+    "primaryScore"              : 2,
     "onlyOneCorrectAnswer"      : false,
     "divideTheAnswerForEachCharacter": true,
     "mandatorySequence" : true,
